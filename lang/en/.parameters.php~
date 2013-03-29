@@ -1,7 +1,0 @@
-<?
-$MESS["GROUP_NAME"] = "Name group";
-$MESS["CHECKBOX_NAME"] = "Checkbox name field";
-$MESS["MULTI_STRING"] = "";
-$MESS["SOME_STRING"] = "Some text";
-$MESS["STRING"] = "String name field";
-?>
