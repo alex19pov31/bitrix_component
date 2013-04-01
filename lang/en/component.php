@@ -1,3 +1,3 @@
 <?
-$MESS ['MODULE_MISSING'] = "";
+$MESS ['MODULE_MISSING'] = "Module is missing";
 ?>
